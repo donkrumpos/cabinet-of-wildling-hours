@@ -1,0 +1,10 @@
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Exports (keep repo lean)
+export/
+
+# Temp files
+*.tmp
+~$*.*
